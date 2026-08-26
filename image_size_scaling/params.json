@@ -1,0 +1,4 @@
+{
+  "image_pixel_side_value": [1000, 2500, 5000, 10000, 25000, 50000],
+  "batch_load_value": [true, false]
+}

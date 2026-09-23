@@ -1,0 +1,4 @@
+{
+  "n_images_value": [1, 3, 5, 10, 25],
+  "batch_load_value": [true, false]
+}

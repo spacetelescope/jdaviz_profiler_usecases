@@ -1,10 +1,10 @@
-# Jdaviz Profiler Usecases
+# `speedometer usecases`
 
-This repository contains Jdaviz Profiler's use cases.
+This repository contains use cases for `speedometer`.
 The use cases are organized in the `usecases` directory, and each use case is contained in its own subdirectory.
-Each use case subdirectory contains a Jupyter notebook template and a parameters file to be used by the Jdaviz Profiler to generate and profile the use case.
+Each use case subdirectory contains a Jupyter notebook template and a parameters file to be used by `speedometer` to generate and profile the use case.
 
-Link to the [Jdaviz Profiler repository](https://github.com/spacetelescope/jdaviz_profiler).
+Link to the [spedometer repository](https://github.com/spacetelescope/speedometer).
 
 ## How to build a new use case
 
@@ -20,4 +20,4 @@ The generated parameterized notebooks will be saved in the `usecases/<usecase pa
 
 An example of how to structure a new `<usecase>` (along with `template.ipynb` and `params.json` files) is provided in this repository in `imviz_images`.
 
-The Jdaviz Profiler has a script to create a new use case from the template.
+`speedometer` has a script to create a new use case from the template.
